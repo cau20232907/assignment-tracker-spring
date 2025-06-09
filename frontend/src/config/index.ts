@@ -24,7 +24,7 @@ const getApiUrl = (): string => {
   }
   
   // Default to production API for Spring Boot
-  return 'https://assignment-tracker-spring.onrender.com';   // Change this to your production API URL
+  return 'https://assignment-tracker-spring-l23a.onrender.com';   // Change this to your production API URL
 };
 
 export const config: Config = {
